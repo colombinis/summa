@@ -1,0 +1,16 @@
+{
+    "name": "scolombini/summa",
+    "description": "Test assignment sent by Maria Belen P",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sebastian A Colombini",
+            "email": "colombinis@gmail.com"
+        }
+    ],
+     "autoload": {
+        "classmap": [
+          "app/"
+        ]
+      }
+}
